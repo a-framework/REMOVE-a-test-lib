@@ -4,6 +4,7 @@
   "description": "Testing library consumption methods.",
   "main": "dist/index.js",
   "scripts": {
+    "test": "echo test",
     "clean": "rimraf dist/ lib/",
     "build:es6": "ncp src/ lib/",
     "build:es5": "webpack --config build/webpack.sdk.config.js",
