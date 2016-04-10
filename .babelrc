@@ -1,0 +1,11 @@
+{
+    "presets": ["es2015-native-modules"],
+    "plugins": [
+        "transform-object-rest-spread", 
+        "transform-decorators-legacy",
+        ["transform-es2015-modules-commonjs-simple", {
+            "noMangle": true
+        }]
+    ],
+    "sourceMaps": true
+}
