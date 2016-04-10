@@ -29,7 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/a-framework/test-lib.git"
   },
-  "author": "",
+  "author": "Dmitry Nutels",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/a-framework/test-lib/issues"
